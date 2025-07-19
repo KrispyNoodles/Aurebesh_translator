@@ -7,10 +7,17 @@ Aurebesh_Translator decodes Star Wars' Aurebesh script into English using a YOLO
 ## 🎮 Demo
 ![aurebesh_transaltor](https://github.com/user-attachments/assets/2a361aa0-6ad8-429c-b425-0c15cd7fe60c)
 
-Run the app by entering `python tele.py`
+## 🔧 How to Use
+Run the translator via Telegram by executing:
 
-## 📁 Dataset Used from Roboflow
-[Aurebesh Dataset](https://universe.roboflow.com/nate-hoellein/aurebesh-delb1)
+```python
+python tele.py
+```
+Send an image containing Aurebesh text to the bot — it will return the English translation powered by computer vision and LLMs.
+
+
+## 📁 Dataset
+Trained using the [Aurebesh Dataset from Roboflow](https://universe.roboflow.com/nate-hoellein/aurebesh-delb1)
 
 
 
