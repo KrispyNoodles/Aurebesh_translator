@@ -15,7 +15,6 @@ python tele.py
 ```
 Send an image containing Aurebesh text to the bot — it will return the English translation powered by computer vision and LLMs.
 
-
 ## 📁 Dataset
 Trained using the [Aurebesh Dataset from Roboflow](https://universe.roboflow.com/nate-hoellein/aurebesh-delb1)
 
